@@ -1,0 +1,39 @@
+_repo: Darkwater--Voices-from-Within-the-Veil_15210
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Du Bois, W. E. B. (William Edward Burghardt)
+    aliases:
+    - DuBois, W. E. B. (William Edward Burghardt)
+    - Bois, W. E. B. Du
+    - DuBois, W. E. Burghardt
+    birthdate: 1868
+    deathdate: 1963
+    gutenberg_agent_id: '226'
+    url: http://www.gutenberg.org/2009/agents/226
+    wikipedia: http://en.wikipedia.org/wiki/W._E._B._DuBois
+description: ''
+gutenberg_bookshelf: African American Writers
+gutenberg_issued: '2005-02-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15210'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'African Americans'
+- !lcc 'E151'
+- !lcsh 'United States -- Race relations'
+tableOfContents: The shadow of years -- A litany at Atlanta -- The souls of white
+  folk -- The riddle of the sphinx -- The hands of Ethiopia -- The princess of Hither
+  Isles -- Of work and wealth -- The second coming -- "The servant in the house" --
+  Jesus Christ in Texas -- Of the ruling of men -- The call -- The damnation of women
+  -- Children of the moon -- The immortal child -- Almighty death -- Of beauty and
+  death -- The prayers of God -- The comet -- A hymn to the peoples.
+title: 'Darkwater: Voices from Within the Veil'
+url: http://www.gutenberg.org/ebooks/15210
